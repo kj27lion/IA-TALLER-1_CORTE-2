@@ -7,9 +7,9 @@
 * *Asignatura:* Inteligencia Artificial (IA)
 * *Integrantes del Grupo:*
    
-    * ANDRES STEVEN RIVAS SALAS
-    * KEVIN JOSEPH VALBUENA PÉREZ
-    * RUBEN DARIO BARONA
+    * *KEVIN JOSEPH VALBUENA PÉREZ*
+    * *ANDRES STEVEN RIVAS SALAS*
+    * *RUBEN DARIO BARONA*
 
 ---
 
